@@ -3,3 +3,5 @@ this is the first line of my repository local
 This is gonna change
 
 This the third line
+
+This is a new line for git extensions
