@@ -12,6 +12,6 @@ FLEXIBILITY
 Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 
 COLLABORATING
-- Git remote
-- Git push
-- Git pull
+- Git remote this let you conect to a  repository and manage connections 
+- Git push this command push the changes to the objetive branch.
+- Git pull this update the latest changes to the current branch 
