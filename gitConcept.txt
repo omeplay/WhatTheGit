@@ -15,3 +15,4 @@ COLLABORATING
 - Git remote
 - Git push
 - Git pull
+- Git checkout  (HG)
