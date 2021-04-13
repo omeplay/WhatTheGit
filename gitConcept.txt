@@ -12,9 +12,9 @@ FLEXIBILITY
 Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 
 COLLABORATING
-- Git remote
-- Git fetch
-- Git push
-- Git add
-- Git pull           
-- Git commit
+- Git remote this let you conect to a  repository and manage connections 
+- Git fetch Let you know the changes but not downloading to your env.
+- Git push this command push the changes to the objetive branch.
+- Git add this stages or add  files to be commited.
+- Git pull this update the latest changes to the current branch          
+- Git commit this will index all files that will be commited to other branch and also adding a message that describe this changes better 
