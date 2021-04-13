@@ -1,0 +1,20 @@
+Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
+
+Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
+
+
+The raw performance characteristics of Git are very strong when compared to many alternatives. Committing new changes, branching, merging and comparing past versions are all optimized for performance. 
+
+SECURITY
+Git has been designed with the integrity of managed source code as a top priority. The content of the files as well as the true relationships between files and directories, versions, tags and commits, all of these objects in the Git repository are secured with a cryptographically secure hashing algorithm called SHA1.
+
+FLEXIBILITY
+Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
+
+COLLABORATING
+- Git remote: Manage the set of repositories ("remotes") whose branches you track.
+- Git fetch: Download objects and refs from another repository
+- Git push: Command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub
+- Git add: Command adds new or changed files in your working directory to the Git staging area.
+- Git pull: Updates your current local working branch, and all of the remote tracking branches        
+- Git commit: Capture a snapshot of the project's currently staged changes.
