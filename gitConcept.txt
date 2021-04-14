@@ -17,4 +17,4 @@ COLLABORATING
 - Git push
 - Git add
 - Git pull           
-- Git commit
+- Git commit use to commit changes 
