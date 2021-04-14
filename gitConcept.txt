@@ -18,3 +18,11 @@ COLLABORATING
 - Git add
 - Git pull           
 - Git commit use to commit changes 
+-Git commit --amend
+- Git remote
+- Git fetch
+- Git rebase
+- Git push
+- Git add: This is a line you should remove
+- Git pull           
+- Git commit
