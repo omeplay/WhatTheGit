@@ -2,7 +2,7 @@ Git is a mature, actively maintained open source project originally developed in
 
 Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
 
-PERFORMANCE
+
 The raw performance characteristics of Git are very strong when compared to many alternatives. Committing new changes, branching, merging and comparing past versions are all optimized for performance. 
 
 SECURITY
@@ -15,3 +15,6 @@ COLLABORATING
 - Git remote: This command is to see all the repositories.
 - Git push: This command is used to upload content to the local repository or to the remote repository.
 - Git pull: This command is used to download content from the local repository or from the remote repository.
+- Git fetch
+- Git add
+- Git commit
