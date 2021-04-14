@@ -12,11 +12,14 @@ FLEXIBILITY
 Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 
 COLLABORATING
--Git commit --amend
-- Git remote
-- Git fetch
-- Git rebase
-- Git push
-- Git add: This is a line you should remove
-- Git pull           
-- Git commit
+- Git remote -> Manage set of tracked repositories
+- Git push -> Update remote refs along with associated objects
+- Git pull -> Fetch from and integrate with another repository or a local branch
+-Git commit --amend -> Command to modify the most recent commit.
+- Git remote -> Managing remote repositories
+- Git fetch -> Command to retrieve the latest meta-data info from origin
+- Git rebase -> Command to change the base of your branch from one commit to another
+- Git push -> Command to upload local repository content to a remote repository
+- Git pull -> Command to update the local repository to match that the remote repository
+- Git commit -> Command to capture a snapshot of the project's currently staged changes.
+
