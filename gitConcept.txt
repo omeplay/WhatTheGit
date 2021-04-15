@@ -2,7 +2,7 @@ Git is a mature, actively maintained open source project originally developed in
 
 Developers who have worked with Git are well represented in the pool of available software development talent and it works well on a wide range of operating systems and IDEs (Integrated Development Environments).
 
-
+PERFORMANCE
 The raw performance characteristics of Git are very strong when compared to many alternatives. Committing new changes, branching, merging and comparing past versions are all optimized for performance. 
 
 SECURITY
@@ -12,9 +12,9 @@ FLEXIBILITY
 Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 
 COLLABORATING
-<<<<<<< HEAD
 - Git remote- Record the changes made to the files to a local repository
 - Git fetch - Command downloads commits, files, and references from a remote repository into your local repository. 
 - Git push - Sends local commits to the remote repository.
+- Git add - Adds files in the to the staging area for Git.
 - Git pull - To get the latest version of a repository run git pull. 
 - Git Commit - Record the changes made to the files to a local repository
