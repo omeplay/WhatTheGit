@@ -12,6 +12,11 @@ FLEXIBILITY
 Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 
 COLLABORATING
+
 - Git remote - A remote in git is basically a bookmark for a different repository from which you may wish to pull or push code.
 - Git push - The push term refers to upload local repository content to a remote repository. 
 - Git pull - A git pull is what you would do to bring a local branch up-to-date with its remote version.
+- Git add - Adds files in the to the staging area for Git.
+- Git pull - To get the latest version of a repository run git pull. 
+- Git Commit - Record the changes made to the files to a local repository
+- Git checkout - Switch branches or restore working tree files
