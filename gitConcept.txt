@@ -16,3 +16,4 @@ COLLABORATING
 - Git push
 - Git pull
 - Git checkout  (HG)
+- Git cherry-pick (HG)
