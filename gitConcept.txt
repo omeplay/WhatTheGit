@@ -15,12 +15,12 @@ COLLABORATING
 - Git branch -a 
 - Git remote- Record the changes made to the files to a local repository
 - Git fetch - Command downloads commits, files, and references from a remote repository into your local repository. 
-- Git revert
-- Git checkout -b
+- Git revert - Used to record some new commits to reverse the effect of some earlier commits
+- Git checkout -b - Specifying -b causes a new branch to be created as if git-branch[1] were called and then checked out
 - Git push - Sends local commits to the remote repository.
 - Git add - Adds files in the to the staging area for Git.
-- Git rebase - 
+- Git rebase - Reapply commits on top of another base tip
 - Git pull - To get the latest version of a repository run git pull. 
 - Git Commit - Record the changes made to the files to a local repository
 - Git checkout - Switch branches or restore working tree files
-- Git reset
+- Git reset - move the current HEAD to the commit specified
