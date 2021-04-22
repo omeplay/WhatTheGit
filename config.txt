@@ -1,1 +1,1 @@
-This is config file 
+This is config file with change of part 3
