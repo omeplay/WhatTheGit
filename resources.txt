@@ -1,1 +1,2 @@
 New line for resources
+Adding a new line
